@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func onTap(_ sender: Any) {
+        print("Hello")
+        view.endEditing(true)
+    }
+    
 }
 
