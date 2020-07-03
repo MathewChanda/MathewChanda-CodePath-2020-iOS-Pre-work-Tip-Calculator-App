@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-The challenges that I encountered was setting up Github with my personal GitHub. 
+* The challenges that I encountered was setting up Github with my personal GitHub. 
 
 ## License
 
