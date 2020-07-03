@@ -1,6 +1,6 @@
 # Pre-work - Mathew Chanda
 
-Tip is a tip calculator application for iOS.
+Tipper is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
