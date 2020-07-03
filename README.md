@@ -38,7 +38,7 @@ The challenges that I encountered was setting up Github with my personal GitHub.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Mathew Chanda]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
